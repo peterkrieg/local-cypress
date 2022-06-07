@@ -1,5 +1,4 @@
 /// <reference types="cypress" />
-/// <reference path="./node_modules/cypress/types/cy-chai.d.ts" />
 
 type cy = Cypress.cy & CyEventEmitter
 type Cypress = Cypress.Cypress & CyEventEmitter
